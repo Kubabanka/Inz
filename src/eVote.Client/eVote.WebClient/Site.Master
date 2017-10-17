@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="eVote.WebClient.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head runat="server">
+    <title>eVote</title>
+
+    <link rel="stylesheet" href="/Content/bootstrap-datetimepicker.css" />
+    <link href="Content/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/scripts/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="/scripts/moment.min.js"></script>
+    <script type="text/javascript" src="/scripts/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/scripts/bootstrap-datetimepicker.*js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <meta charset="utf-8" />
+
+    <style>
+        .navbar-fixed-left {
+            width: 20%;
+            /*position: fixed;*/
+            border-radius: 0;
+            height: 100%;
+        }
+
+        .list-group-item-header {
+            border-color: #2f4f4f;
+            background-color: #2f4f4f;
+            color: white;
+        }
+
+        .navbar-fixed-left .navbar-nav > li {
+            float: none; /* Cancel default li float: left */
+            width: 20%;
+        }
+
+        .navbar-fixed-left + .container {
+            padding-left: 30px;
+        }
+
+        /* On using dropdown menu (To right shift popuped) */
+        .navbar-fixed-left .navbar-nav > li > .dropdown-menu {
+            margin-top: -50px;
+            margin-left: 140px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <%--<asp:ScriptManager runat="server">
+      <Scripts>
+          <asp:ScriptReference Name="jquery.js"/>
+          <asp:ScriptReference  Name="bootstrap.js"/>
+      </Scripts>
+    </asp:ScriptManager>--%>
+    <form id="form1" runat="server">
+
+
+        <div class="navbar" style="background-color: darkslategrey; color: white; height: auto; font-size: 50px; align-content: center; margin-top: 0px; text-align: center">
+            eVote
+            <div>
+                <asp:Button ID="AddNewPollButton" CssClass="btn btn-primary" Text="Add poll" runat="server" OnClick="AddNewPollButton_Click" />
+                <asp:Button ID="LogoutButton" CssClass="btn btn-primary" Text="Sign Out" runat="server" OnClick="LogoutButton_Click" />
+            </div>
+        </div>
+        <div class="navbar navbar-fixed-left" style="padding-top: 0; padding-left: 0;">
+            <div class="container" style="width: 100%; padding-top: 0; padding-left: 0;">
+                <asp:ListView ID="ListView1" runat="server" OnSelectedIndexChanging="ListView1_SelectedIndexChanging" OnSelectedIndexChanged="ListView1_SelectedIndexChanged" DataKeyNames="ID">
+                    <LayoutTemplate>
+                        <div style="padding-top: 0; padding-left: 0; width: 100%" class="list-group ">
+                            <asp:Label runat="server" CssClass="list-group-item list-group-item-header" Text="Your polls" />
+                            <asp:LinkButton runat="server" ID="itemPlaceholder" CssClass="list-group-item" />
+                        </div>
+                    </LayoutTemplate>
+                    <ItemTemplate>
+                        <asp:LinkButton runat="server" CommandName="Select" Text="<%# Container.DataItem %>" CssClass="list-group-item" />
+                    </ItemTemplate>
+                    <SelectedItemTemplate>
+                        <asp:LinkButton runat="server" Text="<%# Container.DataItem %>" CssClass="list-group-item active" />
+                    </SelectedItemTemplate>
+                </asp:ListView>
+            </div>
+        </div>
+        <div class="container" style="position: fixed; top: 100px; left: 20%;">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+</body>
+</html>

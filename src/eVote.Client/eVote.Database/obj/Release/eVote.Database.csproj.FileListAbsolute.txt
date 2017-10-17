@@ -1,0 +1,14 @@
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\eVote.Database.dll.config
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\eVote.Database.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\eVote.Database.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\EntityFramework.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\EntityFramework.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\obj\Release\eVote.Database.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\obj\Release\eVote.Database.Migrations.AddUrl.resources
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\obj\Release\eVote.Database.csproj.GenerateResource.Cache
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\obj\Release\eVote.Database.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Database\obj\Release\eVote.Database.pdb

@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteUnauthorized.master.cs" Inherits="eVote.WebClient.SiteUnauthorized" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>eVote</title>
+        <link href="Content/css/bootstrap.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server" style="margin: 0px">
+        <div style="background-color: darkslategrey; color: white; height: auto; font-size: 50px; align-content: center; margin-top: 0px; text-align: center">
+            <div style="width: auto; height: auto;">eVote</div>
+        </div>
+        <div style="font-family: Calibri; font-size: 20px; font-weight: normal; font-style: normal; font-variant: normal; text-transform: none; vertical-align: middle; text-align: center; padding: 5px; margin: 5px; position: relative; width: auto; height: auto">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

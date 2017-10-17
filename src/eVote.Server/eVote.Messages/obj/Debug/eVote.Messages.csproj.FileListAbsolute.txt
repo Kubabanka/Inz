@@ -1,0 +1,36 @@
+C:\Users\Jakub\documents\visual studio 2015\Projects\MixNodePrototype\eVote.Messages\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\MixNodePrototype\eVote.Messages\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\MixNodePrototype\eVote.Messages\obj\Debug\eVote.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\documents\visual studio 2015\Projects\MixNodePrototype\eVote.Messages\obj\Debug\eVote.Messages.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\MixNodePrototype\eVote.Messages\obj\Debug\eVote.Messages.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Messages\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Messages\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Messages\obj\Debug\eVote.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Messages\obj\Debug\eVote.Messages.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Messages\obj\Debug\eVote.Messages.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\ConsoleApplication1\eVote.Messages\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\ConsoleApplication1\eVote.Messages\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\ConsoleApplication1\eVote.Messages\obj\Debug\eVote.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\documents\visual studio 2015\Projects\ConsoleApplication1\eVote.Messages\obj\Debug\eVote.Messages.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\ConsoleApplication1\eVote.Messages\obj\Debug\eVote.Messages.pdb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Messages\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Messages\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Messages\obj\Debug\eVote.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Messages\obj\Debug\eVote.Messages.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Messages\obj\Debug\eVote.Messages.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Messages\bin\Debug\eVote.Messages.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Messages\bin\Debug\eVote.Messages.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Messages\obj\Debug\eVote.Messages.csprojResolveAssemblyReference.cache
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Messages\obj\Debug\eVote.Messages.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Messages\obj\Debug\eVote.Messages.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\eVote.Messages\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\eVote.Messages\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\eVote.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\eVote.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\eVote.Messages\obj\Debug\eVote.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\eVote.Messages\obj\Debug\eVote.Messages.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\eVote.Messages\obj\Debug\eVote.Messages.pdb

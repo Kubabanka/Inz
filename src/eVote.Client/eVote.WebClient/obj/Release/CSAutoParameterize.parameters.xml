@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="eVoteDatabase-Web.config Connection String" description="eVoteDatabase Connection String used in web.config by the application to access the database." defaultValue="data source=(local);initial catalog=eVoteDatabase;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Jakub\\Desktop\\INŻ\\eVote\.Client\\eVote\.WebClient\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='eVoteDatabase']/@connectionString" />
+  </parameter>
+</parameters>

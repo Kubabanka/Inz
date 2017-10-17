@@ -1,0 +1,7 @@
+C:\Users\Jakub\Desktop\INŻ\eVote.PublishElement\eVote.Messages\bin\Release\eVote.Messages.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.PublishElement\eVote.Messages\bin\Release\eVote.Messages.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.PublishElement\eVote.Messages\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.PublishElement\eVote.Messages\bin\Release\Newtonsoft.Json.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.PublishElement\eVote.Messages\obj\Release\eVote.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\INŻ\eVote.PublishElement\eVote.Messages\obj\Release\eVote.Messages.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.PublishElement\eVote.Messages\obj\Release\eVote.Messages.pdb

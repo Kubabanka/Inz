@@ -1,0 +1,54 @@
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\eVote.Database.dll.config
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\eVote.Database.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\eVote.Database.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\obj\Debug\eVote.Database.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\obj\Debug\eVote.Database.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\Database\obj\Debug\eVote.Database.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\eVote.Database.dll.config
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\eVote.Database.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\eVote.Database.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\obj\Debug\eVote.Database.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\obj\Debug\eVote.Database.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\obj\Debug\eVote.Database.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\obj\Debug\eVote.Database.Migrations.InitialCreate.resources
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\eVote.Database\obj\Debug\eVote.Database.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\eVote.Database.dll.config
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\eVote.Database.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\eVote.Database.pdb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\obj\Debug\eVote.Database.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\obj\Debug\eVote.Database.Migrations.InitialCreate.resources
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\obj\Debug\eVote.Database.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\obj\Debug\eVote.Database.dll
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\eVote.Client\eVote.Database\obj\Debug\eVote.Database.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\eVote.Database.dll.config
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\eVote.Database.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\eVote.Database.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\EntityFramework.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\EntityFramework.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\obj\Debug\eVote.Database.csprojResolveAssemblyReference.cache
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\obj\Debug\eVote.Database.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\obj\Debug\eVote.Database.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\obj\Debug\eVote.Database.Migrations.Initial.resources
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Database\obj\Debug\eVote.Database.csproj.GenerateResource.Cache

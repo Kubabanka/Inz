@@ -1,0 +1,45 @@
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\eVote.Client.dll
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\eVote.Client.pdb
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\eVote.Database.dll
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\eVote.Messages.dll
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\Newtonsoft.Json.dll
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\EntityFramework.dll
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\eVote.Database.pdb
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\eVote.Messages.pdb
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\Newtonsoft.Json.xml
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\bin\Debug\EntityFramework.xml
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\obj\Debug\eVote.Client.csprojResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\obj\Debug\eVote.Client.dll
+c:\users\jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.Client\obj\Debug\eVote.Client.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Client.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Client.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Database.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Messages.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Database.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Messages.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\obj\Debug\eVote.Client.csprojResolveAssemblyReference.cache
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\obj\Debug\eVote.Client.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\obj\Debug\eVote.Client.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Client.dll.config
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Client.dll.config
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Client.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Client.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Database.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Database.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\obj\Debug\eVote.Client.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\obj\Debug\eVote.Client.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.Client\obj\Debug\eVote.Client.pdb

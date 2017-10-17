@@ -1,0 +1,54 @@
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Database.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Server.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Database.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Server.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Server\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Database.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Messages.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Server.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Database.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Messages.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Server.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jbanka\Desktop\INŻ\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Database.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Messages.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Server.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Database.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Messages.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\eVote.Server.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Server\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

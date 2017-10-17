@@ -1,0 +1,135 @@
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\csc.exe
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\vbc.exe
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll.config
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\eVote.WebClient.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\csc.exe
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\vbc.exe
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll.config
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Client.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Messages.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Database.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Client.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Messages.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Database.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.pdb
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\csc.exe
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\System.Collections.Immutable.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\vbc.exe
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe
+E:\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe.config
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll.config
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.pdb
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Client.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Messages.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Database.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Newtonsoft.Json.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Client.pdb
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Messages.pdb
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Database.pdb
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Newtonsoft.Json.xml
+E:\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.xml
+E:\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.csprojResolveAssemblyReference.cache
+E:\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.dll
+E:\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.pdb
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Antlr3.Runtime.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.Web.Infrastructure.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\System.Web.Optimization.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\WebGrease.dll
+E:\INŻ\eVote.Client\eVote.WebClient\bin\Antlr3.Runtime.pdb
+E:\INŻ\eVote.Client\eVote.WebClient\bin\System.Web.Optimization.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\System.Web.Optimization.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\WebGrease.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\System.Web.Optimization.xml
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\jbanka\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\csc.exe
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\vbc.exe
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll.config
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.WebClient.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Antlr3.Runtime.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.SqlServer.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Client.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Database.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Messages.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\System.Web.Optimization.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\WebGrease.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Client.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Database.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\eVote.Messages.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Antlr3.Runtime.pdb
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\EntityFramework.SqlServer.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\Newtonsoft.Json.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\bin\System.Web.Optimization.xml
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.dll
+C:\Users\Jakub\Desktop\INŻ\eVote.Client\eVote.WebClient\obj\Debug\eVote.WebClient.pdb
