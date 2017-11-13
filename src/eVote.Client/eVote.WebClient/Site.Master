@@ -61,7 +61,7 @@
 
 
         <div class="navbar" style="background-color: darkslategrey; color: white; height: auto; font-size: 50px; align-content: center; margin-top: 0px; text-align: center">
-            eVote
+            <a href="Default.aspx" style="text-decoration:none;color:white">eVote</a>
             <div>
                 <asp:Button ID="AddNewPollButton" CssClass="btn btn-primary" Text="Add poll" runat="server" OnClick="AddNewPollButton_Click" />
                 <asp:Button ID="LogoutButton" CssClass="btn btn-primary" Text="Sign Out" runat="server" OnClick="LogoutButton_Click" />

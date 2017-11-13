@@ -60,8 +60,20 @@ namespace eVote.Server
             }
         }
 
-        public void AddNewPoll(Poll p)
+        public void AddNewPoll(Poll p, List<string> mails)
         {
+            foreach (var login in mails)
+            {
+                if (!String.IsNullOrWhiteSpace(login))
+                {
+                    var v = database.Voters.Where(x => x.Login == login.Trim()).FirstOrDefault();
+                    if (v != null)
+                    {
+                        p.Voters.Add(v);
+                    }
+                }
+            }
+
             var timeToEnd = p.EndDate - DateTime.Now;
             if (timeToEnd <= TimeSpan.Zero)
             {
@@ -69,7 +81,7 @@ namespace eVote.Server
             }
             else
             {
-                var timer = new System.Timers.Timer(timeToEnd.TotalMilliseconds);
+                var timer = new System.Timers.Timer(Convert.ToInt64(timeToEnd.TotalMilliseconds));
                 pollsTimers.Add(timer);
                 timer.AutoReset = false;
                 timer.Elapsed += ( sender, e ) => PollFinished(p);
@@ -144,8 +156,10 @@ namespace eVote.Server
                         break;
                     case "New poll":
                         var data2 = Message.DecryptStringFromBytes_Aes(JsonConvert.DeserializeObject<byte[]>(message.Data), aes.Key, aes.IV);
-                        var poll = JsonConvert.DeserializeObject<Poll>(data2);
-                        AddNewPoll(poll);
+                        var des = JsonConvert.DeserializeObject<string[]>(data2);
+                        var poll = JsonConvert.DeserializeObject<Poll>(des[0]);
+                        var mails = JsonConvert.DeserializeObject<List<string>>(des[1]);
+                        AddNewPoll(poll,mails);
                         break;
                     case "Last vote":
                         var data3 = Message.DecryptStringFromBytes_Aes(JsonConvert.DeserializeObject<byte[]>(message.Data), aes.Key, aes.IV);
@@ -289,7 +303,6 @@ namespace eVote.Server
             writer.Write( mesStr );
             writer.Close();
             client.Close();
-            //throw new NotImplementedException();
         }
 
         private void AddNewVoter(Voter voter, TcpClient client)

@@ -32,6 +32,7 @@ namespace eVote.Client
                 writer.Write(mesString);
                 var reader = new BinaryReader(stream);
                 var reply = reader.ReadString();
+                reply = Message.DecryptStringFromBytes_Aes(JsonConvert.DeserializeObject<byte[]>(reply), aes.Key, aes.IV);
                 replyMessage = JsonConvert.DeserializeObject<Message>(reply);
             }
 
@@ -43,11 +44,13 @@ namespace eVote.Client
 
         public static bool AddNewVoter(string login, string pass, string fname, string lname)
         {
+            KeyExchange();
             var client = new TcpClient("localhost", 5454);
             var voter = new Voter() { FirstName = fname, LastName = lname, Login = login, Password = Message.SHA512(pass) };
-            var mes = new Message(JsonConvert.SerializeObject(voter), "New voter", "Client", "Server");
+            var votrStr = JsonConvert.SerializeObject(Message.EncryptStringToBytes_Aes(JsonConvert.SerializeObject(voter), aes.Key, aes.IV));
+            var mes = new Message(votrStr, "New voter", "Client", "Server");
             var mesString = JsonConvert.SerializeObject(mes);
-            mesString = JsonConvert.SerializeObject(Message.EncryptStringToBytes_Aes(mesString, aes.Key, aes.IV));
+            
             Message replyMessage;
             using (var stream = client.GetStream())
             {
@@ -68,9 +71,8 @@ namespace eVote.Client
         public static void CastVote(string login, long[] choice, long pollID)
         {
             var client = new TcpClient("localhost", 5454);
-            var mes = new Message(pollID.ToString(), "Get Poll Keys", "Client", "Server");
+            var mes = new Message(JsonConvert.SerializeObject(Message.EncryptStringToBytes_Aes(pollID.ToString(), aes.Key, aes.IV)), "Get Poll Keys", "Client", "Server");
             var mesString = JsonConvert.SerializeObject(mes);
-            mesString = JsonConvert.SerializeObject(Message.EncryptStringToBytes_Aes(mesString, aes.Key, aes.IV));
 
             using (var stream = client.GetStream())
             {
@@ -78,7 +80,7 @@ namespace eVote.Client
                 writer.Write(mesString);
                 var reader = new BinaryReader(stream);
                 var reply = reader.ReadString();
-                reply = JsonConvert.SerializeObject(Message.EncryptStringToBytes_Aes(reply, aes.Key, aes.IV));
+                reply =Message.DecryptStringFromBytes_Aes(JsonConvert.DeserializeObject<byte[]>(reply), aes.Key, aes.IV);
                 var replyMessage = JsonConvert.DeserializeObject<Message>(reply);
                 var onlyKeys = JsonConvert.DeserializeObject<Poll>(replyMessage.Data);
                 var encChoice = Message.EncryptStringToBytes_Aes(JsonConvert.SerializeObject(choice), onlyKeys.AesKey, onlyKeys.AesIV);
@@ -111,6 +113,7 @@ namespace eVote.Client
                 writer.Write(mesString);
                 var reader = new BinaryReader(stream);
                 var reply = reader.ReadString();
+                reply = Message.DecryptStringFromBytes_Aes(JsonConvert.DeserializeObject<byte[]>(reply),aes.Key,aes.IV);
                 replyMessage = (Message)JsonConvert.DeserializeObject<Message>(reply);
             }
 
@@ -138,17 +141,22 @@ namespace eVote.Client
             }
 
             var aesKeyAndIV = JsonConvert.DeserializeObject<string[]>(JsonConvert.DeserializeObject<Message>(mes).Data);
-            aes.Key = JsonConvert.DeserializeObject<byte[]>(aesKeyAndIV[0]);
-            aes.IV = JsonConvert.DeserializeObject<byte[]>(aesKeyAndIV[1]);
+            var aesKey = Message.DecryptStringFromBytes_RSA(JsonConvert.DeserializeObject<byte[]>(aesKeyAndIV[0]), rsa.ExportParameters(true));
+            var aesIV = Message.DecryptStringFromBytes_RSA(JsonConvert.DeserializeObject<byte[]>(aesKeyAndIV[1]), rsa.ExportParameters(true));
+            aes.Key = JsonConvert.DeserializeObject<byte[]>(aesKey);
+            aes.IV = JsonConvert.DeserializeObject<byte[]>(aesIV);
         }
 
-        public static void AddNewPoll(Poll newPoll)
+        public static void AddNewPoll(Poll newPoll, List<string> votersMails)
         {
-            var pollStr = JsonConvert.SerializeObject(Message.EncryptStringToBytes_Aes(JsonConvert.SerializeObject(newPoll),aes.Key,aes.IV));
+            var pollStr = JsonConvert.SerializeObject(newPoll);
+            var voterStr = JsonConvert.SerializeObject(votersMails);
+            var toSer = new string[] { pollStr, voterStr };
+            var k =JsonConvert.SerializeObject(Message.EncryptStringToBytes_Aes(JsonConvert.SerializeObject(toSer),aes.Key,aes.IV));
             var client = new TcpClient("localhost", 5454);
             using (var stream = client.GetStream())
             {
-                var mes = new Message(pollStr, "New poll", "Client", "Server");
+                var mes = new Message(k, "New poll", "Client", "Server");
                 var mesString = JsonConvert.SerializeObject(mes);
                 var writer = new BinaryWriter(stream);
                 writer.Write(mesString);

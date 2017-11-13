@@ -58,11 +58,13 @@ namespace eVote.WebClient
                     voteOptions.Add(vo);
                 }
             }
-            
+            p.Name = PollNameTextbox.Text.Trim();
             p.EndDate = endDate;
             p.VoteOptions = voteOptions;
-            p.Voters = voters;
-            Client.Client.AddNewPoll(p);
+            p.Voters = new List<Voter>();
+            Client.Client.AddNewPoll(p,voters.Select(v => v.Login).ToList());
+            
+            Response.Redirect("default.aspx", true);
         }
     }
 }

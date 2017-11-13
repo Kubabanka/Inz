@@ -193,7 +193,7 @@ namespace eVote.Messages
         public static string DecryptStringFromBytes_RSA(byte[] cipherText, RSAParameters RsaParameters)
         {
             var byteConventer = new System.Text.UnicodeEncoding();
-            var decryptedData = RSAEncrypt(cipherText, RsaParameters, false);
+            var decryptedData = RSADecrypt(cipherText, RsaParameters, false);
             return byteConventer.GetString(decryptedData);
         }
         
